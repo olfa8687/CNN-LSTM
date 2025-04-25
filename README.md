@@ -12,8 +12,6 @@ This notebook presents the implementation of an CNN-LSTM-based deep learning mod
 ## 🗂️ Repository Contents
 
 - `LSTM2018_(new).ipynb`: Main Jupyter Notebook with model code, training, and evaluation.
-- `data/`: Directory to place the CICIDS2018 dataset CSV files after download and preprocessing.
-- `results/`: Folder to save model predictions, plots, and evaluation metrics.
 - `README.md`: Documentation for usage and reproducibility.
 - `requirements.txt`: Python dependencies required to run the notebook.
 
@@ -21,7 +19,7 @@ This notebook presents the implementation of an CNN-LSTM-based deep learning mod
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/LSTM-IDS-CICIDS2018.git
+git clone https://github.com/olfa8687/LSTM-IDS-CICIDS2018.git
 cd LSTM-IDS-CICIDS2018
 
 
