@@ -1,4 +1,4 @@
-# CNN-LSTM-Based Intrusion Detection Model (using CICIDS2018)
+# SecureAlert Intrusion Detection Model (using CICIDS2018)
 
 This repository contains the source code for a CNN-LSTM neural network implemented in Python using Keras. The model is designed for network intrusion detection using the CICIDS2018 dataset, and it replicates the experiments conducted in our research.
 
