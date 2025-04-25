@@ -1,12 +1,12 @@
 # SecureAlert Intrusion Detection Model (using CICIDS2018)
 
-This repository contains the source code for a CNN-LSTM neural network implemented in Python using Keras. The model is designed for network intrusion detection using the CICIDS2018 dataset, and it replicates the experiments conducted in our research.
+This repository contains the source code for a CNN-LSTM neural network implemented in Python using Keras. The model is designed for network intrusion detection using the three datasets: (CIC-IDS2017, CSE-CIC-IDS2018, and CIC-DDoS2019), (in the .ipynb we include the code using  CSE-CIC-IDS2018 and the we show the results of the three datasets), and it replicates the experiments conducted in our research.
 
 ## 📄 Paper Title
 **Securing IoV Environments with Blockchain-Integrated Detection Systems"**
 
 ## 📚 Abstract
-This notebook presents the implementation of an CNN-LSTM-based deep learning model developed to detect various types of network intrusions from flow-based features. The model architecture, training process, and evaluation are included to support reproducibility.
+This notebook presents the implementation of an SecureAlert-based deep learning model developed to detect various types of network intrusions from flow-based features. The model architecture, training process, and evaluation are included to support reproducibility.
 
 
 ## 🗂️ Repository Contents
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 3. Download and prepare the dataset
 
-This project uses the **CICIDS2018** dataset, a comprehensive and realistic dataset for intrusion detection system (IDS) research provided by the Canadian Institute for Cybersecurity (CIC).
+This project uses the ** CSE-CIC-IDS2018** dataset, a comprehensive and realistic dataset for intrusion detection system (IDS) research provided by the Canadian Institute for Cybersecurity (CIC).
 
 #### 🔹 Dataset Highlights:
 - Captured over 5 days with a variety of normal and attack traffic.
